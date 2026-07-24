@@ -1,15 +1,7 @@
 {
-  "latest_version": "2.5.0",
-  "installed_version": "2.4.0",
-  "release_date": "2026-07-20 18:30",
-  "force_update": false,
-  "description": "Major performance improvements, new premium features and bug fixes.",
-  "features": [
-    "New glassmorphism UI with smooth animations",
-    "Faster update checking",
-    "Dark mode enhancements",
-    "Bug fixes and stability improvements",
-    "Added support for custom themes"
-  ],
-  "update_url": "https://github.com/yourusername/UpdateVip/releases/download/v2.5.0/UpdateVip.apk"
+  "versionCode": 2,
+  "versionName": "2.0",
+  "message": "App is expired please update to the latest version to use it. !!",
+  "downloadUrl": "https://github.com/yourusername/yourrepo/releases/download/v2.0/app-release.apk",
+  "showAfter": "23.07.2026 12:05 PM"
 }
