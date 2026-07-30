@@ -1,7 +1,12 @@
 {
-  "versionCode": 2,
-  "versionName": "2.0",
-  "message": "App is expired please update to the latest version to use it. !!",
-  "downloadUrl": "https://github.com/yourusername/yourrepo/releases/download/v2.0/app-release.apk",
-  "showAfter": "23.07.2026 12:05 PM"
+  "version": "2.0.0", 
+  "release_date": "2025-07-25 10:00:00",
+  "url": "https://example.com/app.apk",
+  "force": true,
+  "size": "25.4 MB",
+  "description": "Hyper UI & Bug Fixes Updated!",
+  "features": [
+    "Added Neon Cyberpunk Theme",
+    "Optimized app size and speed"
+  ]
 }
