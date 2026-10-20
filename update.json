@@ -1,9 +1,9 @@
 {
-  "version": "2.222.1548", 
-  "release_date": "2026-07-25 12:05:00",
+  "version": "2.0.0", 
+  "release_date": "2006-07-25 12:05:00",
   "url": "https://example.com/app.apk",
   "force": true,
-  "size": "95.4 MB",
+  "size": "29.4 MB",
   "description": "Hyper UI & Bug Fixes Updated!",
   "features": [
     "Added Neon Cyberpunk Theme",
