@@ -3,11 +3,10 @@
   "release_date": "2025-07-25 12:05:00",
   "url": "https://example.com/app.apk",
   "force": true,
-  "size": "200.4 MB",
-  "description": "🚀 Update required. Please update the app to continue.",
+  "size": "250.4 MB",
+  "description": "Hyper UI & Bug Fixes Updated!",
   "features": [
-    "⚡ Bug-Free. Clean. Pure. Now Available",
-    "⚡ Connect to the Internet → Check the Latest Version & Size",
-    "✨ Update Now — Tap the Button Below to Continue"
+    "Added Neon Cyberpunk Theme",
+    "Optimized app size and speed"
   ]
 }
